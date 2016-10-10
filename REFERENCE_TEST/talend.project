@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_-_pQoY6mEea4OKBmcfxKZA" label="reference-test" description="" language="java" technicalLabel="REFERENCE_TEST" creationDate="2016-10-10T14:00:17.000+1100" author="_-_pQoo6mEea4OKBmcfxKZA" productVersion="Talend Big Data Platform-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/danny-zhong-sirca/talend-test&quot;,&quot;login&quot;:&quot;danny-zhong-sirca&quot;,&quot;passwd&quot;:&quot;tTNYnCsktCaQbvt5cAbQyA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DQ" itemsRelationVersion="1.3">
+  <TalendProperties:Project xmi:id="_-_pQoY6mEea4OKBmcfxKZA" label="reference-test" description="" language="java" technicalLabel="REFERENCE_TEST" creationDate="2016-10-10T14:00:17.000+1100" author="_-_pQoo6mEea4OKBmcfxKZA" referencedProjects="_uggwBI87Eea5d7XGKGJlYA" productVersion="Talend Big Data Platform-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/danny-zhong-sirca/talend-test&quot;,&quot;login&quot;:&quot;danny-zhong-sirca&quot;,&quot;passwd&quot;:&quot;tTNYnCsktCaQbvt5cAbQyA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DQ" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="__rJEsI6mEea4OKBmcfxKZA" label="development" code="DEV"/>
     <technicalStatus xmi:id="__rJEsY6mEea4OKBmcfxKZA" label="testing" code="TEST"/>
     <technicalStatus xmi:id="__rJEso6mEea4OKBmcfxKZA" label="production" code="PROD"/>
@@ -328,4 +328,10 @@
     <migrationTask xmi:id="___mR0I6mEea4OKBmcfxKZA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_-_pQoo6mEea4OKBmcfxKZA" login="danny.zhong@sirca.org.au" firstName="Danny" lastName="Zhong" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_uggwAY87Eea5d7XGKGJlYA" login="andy.fox@rozettatech.com" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_uggwAo87Eea5d7XGKGJlYA" login="nathan.williams@sirca.org.au" firstName="Nathan" lastName="Williams" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_uggwA487Eea5d7XGKGJlYA" login="kenneth.cruz@sirca.org.au" firstName="Kenneth" lastName="Cruz" type="DQ" additionnalData="{}"/>
+  <TalendProperties:ProjectReference xmi:id="_uggwBI87Eea5d7XGKGJlYA" project="_-_pQoY6mEea4OKBmcfxKZA" branch="master" referencedBranch="master">
+    <referencedProject href="../MAIN_PROJECT_TEST/talend.project#projectReference"/>
+  </TalendProperties:ProjectReference>
 </xmi:XMI>
