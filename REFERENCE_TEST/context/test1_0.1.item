@@ -2,4 +2,5 @@
 <talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ThtcwI52EeaFzqznfPw0yw" confirmationNeeded="false" name="Default">
   <contextParameter xmi:id="_ThuD0I52EeaFzqznfPw0yw" comment="" name="test1" prompt="test1?" promptNeeded="false" type="id_String" value="1111"/>
   <contextParameter xmi:id="_ThuD0Y52EeaFzqznfPw0yw" comment="" name="test2" prompt="test2?" promptNeeded="false" type="id_String" value="2222"/>
+  <contextParameter xmi:id="_8-yVoI92EeambYVYtNJ2Yg" comment="" name="newAdded" prompt="newAdded?" promptNeeded="false" type="id_String" value=""/>
 </talendfile:ContextType>
