@@ -5,4 +5,5 @@
   <contextParameter xmi:id="_8-yVoI92EeambYVYtNJ2Yg" comment="" name="newAdded" prompt="newAdded?" promptNeeded="false" type="id_String" value=""/>
   <contextParameter xmi:id="_phS0IJDUEeaq5aHtLqGPzQ" comment="" name="Nathan" prompt="Nathan?" promptNeeded="false" type="id_String" value="Awesome"/>
   <contextParameter xmi:id="_ZI2woJDVEeaq5aHtLqGPzQ" comment="" name="Nathan2" prompt="Nathan2?" promptNeeded="false" type="id_String" value="Blah"/>
+  <contextParameter xmi:id="_iPF8YJDVEeaq5aHtLqGPzQ" comment="" name="Talend" prompt="Talend?" promptNeeded="false" type="id_String" value=""/>
 </talendfile:ContextType>
