@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ThtcwI52EeaFzqznfPw0yw" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_ThuD0I52EeaFzqznfPw0yw" comment="" name="test1" prompt="test1?" promptNeeded="false" type="id_String" value="1111"/>
-  <contextParameter xmi:id="_ThuD0Y52EeaFzqznfPw0yw" comment="" name="test2" prompt="test2?" promptNeeded="false" type="id_String" value="2222"/>
-  <contextParameter xmi:id="_8-yVoI92EeambYVYtNJ2Yg" comment="" name="newAdded" prompt="newAdded?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter xmi:id="_phS0IJDUEeaq5aHtLqGPzQ" comment="" name="Nathan" prompt="Nathan?" promptNeeded="false" type="id_String" value="Awesome"/>
-  <contextParameter xmi:id="_ZI2woJDVEeaq5aHtLqGPzQ" comment="" name="Nathan2" prompt="Nathan2?" promptNeeded="false" type="id_String" value="Blah"/>
-  <contextParameter xmi:id="_iPF8YJDVEeaq5aHtLqGPzQ" comment="" name="Talend" prompt="Talend?" promptNeeded="false" type="id_String" value="Is Shit!"/>
-</talendfile:ContextType>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_ThtcwI52EeaFzqznfPw0yw" confirmationNeeded="false" name="CI">
+    <contextParameter xmi:id="_ThuD0I52EeaFzqznfPw0yw" comment="" name="test1" prompt="test1?" promptNeeded="false" type="id_String" value="CI1"/>
+    <contextParameter xmi:id="_ThuD0Y52EeaFzqznfPw0yw" comment="" name="test2" prompt="test2?" promptNeeded="false" type="id_String" value="CI12"/>
+    <contextParameter xmi:id="_8-yVoI92EeambYVYtNJ2Yg" comment="" name="newAdded" prompt="newAdded?" promptNeeded="false" type="id_String" value="CI13"/>
+    <contextParameter xmi:id="_phS0IJDUEeaq5aHtLqGPzQ" comment="" name="Nathan" prompt="Nathan?" promptNeeded="false" type="id_String" value="CI14"/>
+    <contextParameter xmi:id="_ZI2woJDVEeaq5aHtLqGPzQ" comment="" name="Nathan2" prompt="Nathan2?" promptNeeded="false" type="id_String" value="CI15"/>
+    <contextParameter xmi:id="_iPF8YJDVEeaq5aHtLqGPzQ" comment="" name="Talend" prompt="Talend?" promptNeeded="false" type="id_String" value="CI16"/>
+    <contextParameter xmi:id="_rCHawJDhEeamENGCa91cew" comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_rYX-oJDhEeamENGCa91cew" confirmationNeeded="false" name="Develop">
+    <contextParameter xmi:id="_rYX-oZDhEeamENGCa91cew" comment="" name="test1" prompt="test1?" promptNeeded="false" type="id_String" value="1111"/>
+    <contextParameter xmi:id="_rYX-opDhEeamENGCa91cew" comment="" name="test2" prompt="test2?" promptNeeded="false" type="id_String" value="2222"/>
+    <contextParameter xmi:id="_rYX-o5DhEeamENGCa91cew" comment="" name="newAdded" prompt="newAdded?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_rYX-pJDhEeamENGCa91cew" comment="" name="Nathan" prompt="Nathan?" promptNeeded="false" type="id_String" value="Awesome"/>
+    <contextParameter xmi:id="_rYX-pZDhEeamENGCa91cew" comment="" name="Nathan2" prompt="Nathan2?" promptNeeded="false" type="id_String" value="Blah"/>
+    <contextParameter xmi:id="_rYX-ppDhEeamENGCa91cew" comment="" name="Talend" prompt="Talend?" promptNeeded="false" type="id_String" value="Is Shit!"/>
+    <contextParameter xmi:id="_rYX-p5DhEeamENGCa91cew" comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
